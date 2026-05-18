@@ -1,0 +1,2 @@
+# Fastcharge
+/sys/class/qcom-battery/fastcharge_enable    u:object_r:sysfs_fastcharge:s0
